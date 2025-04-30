@@ -44,7 +44,7 @@ export const findOriginalCodes = (codebook, source, _owner, example) => {
     let codes = Object.values(codebook);
     codes = codes.filter((code) => source.label === code.label || source.alternatives?.includes(code.label));
     if (example) {
-        codes = codes.filter((code) => code.examples?.includes(example) ??
+        codes = codes.filter((code) => code.examples?.includes(example) ||
             code.examples?.some((cur) => cur.startsWith(`${example}|||`)));
     }
     return codes;

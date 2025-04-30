@@ -441,7 +441,7 @@ export class Visualizer {
             return color;
         })
             // Set the radius based on the number of examples
-            .attr("r", (node) => (node.size ?? NaN) * 1.5)
+            .attr("r", (node) => (node.size ?? NaN) * 0.5)
             .attr("cx", (node) => node.x ?? NaN)
             .attr("cy", (node) => node.y ?? NaN)
             .classed("hidden", (node) => node.hidden ?? false);
@@ -458,8 +458,8 @@ export class Visualizer {
                 .text((node) => node.data.label)
                 .attr("fill", "#e0e0e0")
                 .attr("fill-opacity", 0.7)
-                .attr("font-size", 1.3), (update) => update)
-                .attr("x", (node) => (node.x ?? NaN) + (node.size ?? NaN) * 1.5 + 0.25)
+                .attr("font-size", 1.2), (update) => update)
+                .attr("x", (node) => (node.x ?? NaN) + (node.size ?? NaN) * 0.5 + 0.25)
                 .attr("y", (node) => (node.y ?? NaN) + 0.27)
                 .classed("hidden", (node) => node.hidden ?? false);
         }
@@ -570,7 +570,7 @@ export class Visualizer {
             .forceManyBody()
             .distanceMax(30)
             .strength(-distanceScale * 5))
-            .force("center", d3.forceCenter().strength(0.2))
+            .force("center", d3.forceCenter().strength(0.01))
             .force("link", forceLink
             .links(graph.links.filter((link) => (link.visualizeWeight ?? NaN) >= 0.1))
             .id((node) => node.index ?? NaN)
