@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "John Chen"
 title_separator          : "-"
 name                     : &name "John Chen"
-description              : &description "personal description"
+description              : &description "Human-AI Interaction researcher and educator focusing on playful learning, Generative AI, and equal access to education"
 url                      : https://civitas-john.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "civitas-john/civitas-john.github.io"
@@ -26,9 +26,9 @@ author:
   pronouns         : "he/him/his" 
   bio              : "Designing the Future of Learning"
   location         : "Evanston, IL"
-  employer         : "Northwestern University"
+  employer         : "University of Arizona"
   uri              : "https://civitas-john.github.io/"
-  email            : "civitas+website@u.northwestern.edu" 
+  email            : "johnchen+website@arizona.edu" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/chen_j_17"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/john-chen-b3b92386" # Update with your LinkedIn username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          :# Update with your X/Twitter username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
