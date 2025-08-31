@@ -8,7 +8,7 @@ date: 2020-06-19
 location: "Nashville, TN, US"
 talk_url: "/files/talks/2020-mobile.pdf"
 ---
-Since 2020, NetLogo Mobile has been developed into [Turtle Universe](/portfolio/turtle-universe), a full-fledged agent-based modeling and programming app for children, educators, and enthusiasts. It is the foundation of [Tortuga](/portfolio/tortuga) (an editor for interactive tutorials), [NetLogo AR](/portfolio/netlogo-ar), and [NetLogo Chat](/portfolio/netlogo-chat). In May 2024, it has been used by 105,932 people around the world.
+Since 2020, NetLogo Mobile has been developed into [Turtle Universe](/portfolio/turtle-universe), a full-fledged agent-based modeling and programming app for children, educators, and enthusiasts. It is the foundation of [Tortuga](/portfolio/tortuga) (an editor for interactive tutorials), [NetLogo AR](/portfolio/netlogo-ar), and [NetLogo Chat](/portfolio/netlogo-chat). By May 2024, it has been used by 105,932 people around the world.
 
 This is the first poster introducing an early prototype of NetLogo Mobile. [Here](/files/talks/2020-mobile.pdf) is its poster. Unfortunately, due to the pandemic, I was never able to physically present it. Hope you would enjoy it!
 

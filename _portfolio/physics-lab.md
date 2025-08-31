@@ -6,7 +6,7 @@ collection: portfolio
 
 Since 2017, I have been the founder and project lead of Physics Lab AR. My responsibilities include:
 - Led a technical and research team with 9 undergraduate and graduate students (2019-present) and professional designers and developers (2017-2019) for the software.
-- Conducted mixed methods research to understand its success and large-scale online community, examining millions of log data, shared artifacts, and conversations (ISLS 2022; IDC 2025, in preparation).
+- Conducted mixed methods research to understand its success and large-scale online community, examining millions of log data, shared artifacts, and conversations (ISLS 2022; IDC 2025).
 
 Physics Lab AR started as an interactive sandbox where learners could create virtual physics experiments. The idea stems from my conversation with his high school physics teacher in late 2017: a mobile app that could simulate electronic experiments, with the freedom to place, remove, and connect various electronic components such as batteries, meters, or lamps. 
 
@@ -17,8 +17,8 @@ It was initially targeted at high school teachers and students. However, without
 ## Related Publications
 While I have been actively maintaining and studying Physics Lab AR for the past years, the sheer capacity of its user base and interaction data has formed significant obstacles. This, in turn, motivates my work in [AI and Qualitative Research](/portfolio/ai-qualitative/). Below is a list of my past and ongoing publications around it:
 
-- Chen, J., Zhao, L., Xiao, F., Horn, M. S., & Wilensky, U. J. (2022). [Self-Governed Collaborative Inquiry in Action: A Case Study of a Large-Scale Online Youth Community](/publications/2022-physics-lab/). Proceedings of ISLS Annual Meeting 2022.
-- Chen, J., Zhao, L., Horn, M. S., & Wilensky, U. J. (In Preparation). Physics Lab: Designing Online Collaborative Learning Environment With and For Youth. Proceedings of the ACM Interaction Design and Children (IDC) 2025.
+- Chen, J., Zhao, L., Xiao, F., Horn, M. S., & Wilensky, U. J. (2022). [Self-Governed Collaborative Inquiry in Action: A Case Study of a Large-Scale Online Youth Community](/publication/2022-physics-lab). Proceedings of ISLS Annual Meeting 2022.
+- Chen, J., Zhao, L., Horn, M. S., & Wilensky, U. J. (2025). [Engaging Millions of Worldwide Youth in Informal STEM Learning: Uncovering Open-Ended Design Principles that Drive Physics Lab's Success](/publication/2025-physics-lab). Proceedings of the ACM Interaction Design and Children (IDC) 2025.
 
 ## Related Projects
 Work in progress.
