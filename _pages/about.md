@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am John (Yuehan) Chen, a lecturer and incoming tenure-track assistant professor in Game Design and Development at **the University of Arizona, College of Information Science**. I recently defended my Ph.D dissertation soon in Computer Science and Learning Sciences at Northwestern University under the supervision of Prof. Uri Wilensky. 
+I am John (Yuehan) Chen, a lecturer and incoming tenure-track assistant professor in Game Design and Development at **the University of Arizona, College of Information Science**. I recently defended my Ph.D dissertation in Computer Science and Learning Sciences at Northwestern University under the supervision of Prof. Uri Wilensky. 
 
 I will be hiring 1-2 Ph.D students and summer research students in **Fall 2026**. Please reach out to me if your research interest is at the intersection of Human-AI Interaction, Playful Learning, and Generative AI. 
 
